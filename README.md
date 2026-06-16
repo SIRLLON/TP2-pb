@@ -1,0 +1,3 @@
+### Teste de Performance 2 (TP2)
+Desenvolvimento de rotinas assíncronas utilizando asyncio para simulação de fluxos concorrentes (pipeline) e servidores TCP. Implementação de algoritmos de ordenação avançada com QuickSelect e QuickSort híbrido acoplado a Insertion Sort. Construção de estruturas de dados encadeadas circulares e duplamente ordenadas. Desenvolvimento de lógicas paralelas com ThreadPoolExecutor para soma, escalonamento round-robin de blocos, balanceamento dinâmico via prefix sums e multiplicação de matrizes.
+* **Acessar no Google Colab:** [Executar TP2](https://colab.research.google.com/drive/1WPHYuYETZ90nRQhVSil1oi4wUVqZCnLK)
